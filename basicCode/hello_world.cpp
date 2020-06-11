@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
  				{
-cout << "Hello World!";
+cout << "Hello World!" << endl;
+cout << "I am learning openFOAM" << endl;
 return 0;
  			}
